@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\i_dqn\\Documents\\GitHub\\ESTRUCTURA-DE-DATOS\\Semana2\\Semana2.csproj": {}
+    "C:\\Users\\i_dqn\\Documents\\ESTRUCTURA-DE-DATOS\\Semana3\\Semana3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\i_dqn\\Documents\\GitHub\\ESTRUCTURA-DE-DATOS\\Semana2\\Semana2.csproj": {
+    "C:\\Users\\i_dqn\\Documents\\ESTRUCTURA-DE-DATOS\\Semana3\\Semana3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\i_dqn\\Documents\\GitHub\\ESTRUCTURA-DE-DATOS\\Semana2\\Semana2.csproj",
-        "projectName": "Semana2",
-        "projectPath": "C:\\Users\\i_dqn\\Documents\\GitHub\\ESTRUCTURA-DE-DATOS\\Semana2\\Semana2.csproj",
+        "projectUniqueName": "C:\\Users\\i_dqn\\Documents\\ESTRUCTURA-DE-DATOS\\Semana3\\Semana3.csproj",
+        "projectName": "Semana3",
+        "projectPath": "C:\\Users\\i_dqn\\Documents\\ESTRUCTURA-DE-DATOS\\Semana3\\Semana3.csproj",
         "packagesPath": "C:\\Users\\i_dqn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\i_dqn\\Documents\\GitHub\\ESTRUCTURA-DE-DATOS\\Semana2\\obj\\",
+        "outputPath": "C:\\Users\\i_dqn\\Documents\\ESTRUCTURA-DE-DATOS\\Semana3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\i_dqn\\AppData\\Roaming\\NuGet\\NuGet.Config"
