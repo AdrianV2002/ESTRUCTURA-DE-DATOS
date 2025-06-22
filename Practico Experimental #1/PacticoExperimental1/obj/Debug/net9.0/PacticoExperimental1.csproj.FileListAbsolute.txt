@@ -1,0 +1,15 @@
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\bin\Debug\net9.0\PacticoExperimental1.exe
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\bin\Debug\net9.0\PacticoExperimental1.deps.json
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\bin\Debug\net9.0\PacticoExperimental1.runtimeconfig.json
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\bin\Debug\net9.0\PacticoExperimental1.dll
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\bin\Debug\net9.0\PacticoExperimental1.pdb
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\PacticoExperimental1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\PacticoExperimental1.AssemblyInfoInputs.cache
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\PacticoExperimental1.AssemblyInfo.cs
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\PacticoExperimental1.csproj.CoreCompileInputs.cache
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\PacticoExperimental1.sourcelink.json
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\PacticoExperimental1.dll
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\refint\PacticoExperimental1.dll
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\PacticoExperimental1.pdb
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\PacticoExperimental1.genruntimeconfig.cache
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #1\PacticoExperimental1\obj\Debug\net9.0\ref\PacticoExperimental1.dll
