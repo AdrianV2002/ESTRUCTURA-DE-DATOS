@@ -89,8 +89,9 @@ class InterfazConsola:
             print("2. Consultar turno por cédula")
             print("3. Ver turnos por fecha")
             print("4. Cancelar turno")
-            print("5. Reporte por especialidad")
-            print("6. Salir")
+            print("5. Ver turnos por mes")
+            print("6. Reporte por especialidad")
+            print("7. Salir")
             opcion = input("Seleccione una opción: ")
 
             match opcion:
@@ -98,8 +99,9 @@ class InterfazConsola:
                 case "2": self.consultar_por_cedula()
                 case "3": self.consultar_por_fecha()
                 case "4": self.cancelar()
-                case "5": self.reporte()
-                case "6":
+                case "5": self.consultar_por_mes()
+                case "6": self.reporte()
+                case "7":
                     print("Cerrando sistema...")
                     break
                 case _: print(f"{Fore.RED}Opción inválida.")
@@ -152,6 +154,20 @@ class InterfazConsola:
             print(f"{Fore.GREEN}Turno cancelado correctamente.")
         else:
             print(f"{Fore.RED}No se encontró ese turno.")
+
+    def consultar_por_mes(self):
+        mes = input("Ingrese el mes a consultar (formato AAAA-MM): ")
+        try:
+            datetime.strptime(mes + "-01", "%Y-%m-%d")
+            turnos = [p for p in self.agenda.turnos if p.fecha.startswith(mes)]
+            if turnos:
+                print(f"{Fore.BLUE}📆 Turnos del mes {mes}:")
+                for p in sorted(turnos, key=lambda x: (x.fecha, x.hora)):
+                    print(p)
+            else:
+                print(f"{Fore.YELLOW} No hay turnos en ese mes.")
+        except ValueError:
+            print(f"{Fore.RED} Formato inválido. Usa AAAA-MM.")
 
     def reporte(self):
         print(f"{Fore.CYAN}📊 Reporte por especialidad:")
