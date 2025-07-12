@@ -1,0 +1,15 @@
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\bin\Debug\net9.0\Ejercicio1.exe
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\bin\Debug\net9.0\Ejercicio1.deps.json
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\bin\Debug\net9.0\Ejercicio1.runtimeconfig.json
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\bin\Debug\net9.0\Ejercicio1.dll
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\bin\Debug\net9.0\Ejercicio1.pdb
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\Ejercicio1.sourcelink.json
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\Ejercicio1.dll
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\refint\Ejercicio1.dll
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\Ejercicio1.pdb
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\Ejercicio1.genruntimeconfig.cache
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Semana7\Ejercicio1\obj\Debug\net9.0\ref\Ejercicio1.dll
