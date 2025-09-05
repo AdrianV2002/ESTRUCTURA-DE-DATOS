@@ -1,0 +1,44 @@
+[
+  {
+    "isbn": "9780001",
+    "title": "Estructuras de Datos con C#",
+    "author": "A. Turing",
+    "year": 2022,
+    "category": "Computaci\u00F3n"
+  },
+  {
+    "isbn": "9780002",
+    "title": "Algoritmos Modernos",
+    "author": "G. Hopper",
+    "year": 2023,
+    "category": "Computaci\u00F3n"
+  },
+  {
+    "isbn": "9780003",
+    "title": "Fundamentos de Redes",
+    "author": "L. Torvalds",
+    "year": 2021,
+    "category": "Redes"
+  },
+  {
+    "isbn": "9780004",
+    "title": "Bases de Datos Pr\u00E1cticas",
+    "author": "E. F. Codd",
+    "year": 2020,
+    "category": "Bases de Datos"
+  },
+  {
+    "isbn": "9780005",
+    "title": "Introducci\u00F3n a la IA",
+    "author": "A. Ng",
+    "year": 2024,
+    "category": "Inteligencia Artificial"
+  },
+  {
+    "isbn": "A",
+    "title": "Pepe",
+    "author": "Jugan",
+    "year": 2002,
+    "category": "Terror"
+  }
+]
