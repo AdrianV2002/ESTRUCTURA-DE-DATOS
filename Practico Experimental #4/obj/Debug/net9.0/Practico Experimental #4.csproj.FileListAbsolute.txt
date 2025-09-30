@@ -1,0 +1,15 @@
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\bin\Debug\net9.0\Practico Experimental #4.exe
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\bin\Debug\net9.0\Practico Experimental #4.deps.json
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\bin\Debug\net9.0\Practico Experimental #4.runtimeconfig.json
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\bin\Debug\net9.0\Practico Experimental #4.dll
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\bin\Debug\net9.0\Practico Experimental #4.pdb
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\Practico Experimental #4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\Practico Experimental #4.AssemblyInfoInputs.cache
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\Practico Experimental #4.AssemblyInfo.cs
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\Practico Experimental #4.csproj.CoreCompileInputs.cache
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\Practico Experimental #4.sourcelink.json
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\Practico Experimental #4.dll
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\refint\Practico Experimental #4.dll
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\Practico Experimental #4.pdb
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\Practico Experimental #4.genruntimeconfig.cache
+C:\Users\i_dqn\Documents\GitHub\ESTRUCTURA-DE-DATOS\Practico Experimental #4\obj\Debug\net9.0\ref\Practico Experimental #4.dll
